@@ -24,6 +24,7 @@ git commit -m "A message describing what you have done to make this snapshot dif
 Commands related to checking status or log history
 
 
+
 git status
 git log
 
@@ -33,3 +34,7 @@ For example,
 git add . is read as git | add | ., where the period represents everything in the current directory;
 git commit -m "message" is read as git | commit -m | "message"; and
 git status is read as git | status | (no destination).
+
+
+
+CHECK
